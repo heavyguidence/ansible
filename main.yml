@@ -4,5 +4,5 @@
    tasks:
     - name: Test connectivity to remote machines
       ping:
-   
+    - name: Testing   
  
